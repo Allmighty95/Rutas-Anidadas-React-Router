@@ -1,0 +1,23 @@
+/* src/components/Profile.module.css */
+.container {
+    padding: 20px;
+    background-color: #fce4ec;
+  }
+  
+  h1 {
+    color: #880e4f;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #ad1457;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #880e4f;
+  }
+  

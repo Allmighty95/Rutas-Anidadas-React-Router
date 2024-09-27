@@ -1,0 +1,30 @@
+/* src/components/Login.module.css */
+.container {
+    padding: 20px;
+    background-color: #f1f8e9;
+  }
+  
+  h1 {
+    color: #33691e;
+  }
+  
+  input {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #33691e;
+    border-radius: 5px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #558b2f;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #33691e;
+  }
+  

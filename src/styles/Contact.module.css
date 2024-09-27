@@ -1,0 +1,14 @@
+/* src/components/Contact.module.css */
+.container {
+    padding: 20px;
+    background-color: #fff3e0;
+  }
+  
+  h1 {
+    color: #e65100;
+  }
+  
+  p {
+    color: #bf360c;
+  }
+  

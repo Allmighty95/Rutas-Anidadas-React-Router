@@ -1,0 +1,10 @@
+/* src/components/Dashboard.module.css */
+.container {
+    padding: 20px;
+    background-color: #e3f2fd;
+  }
+  
+  h1 {
+    color: #1976d2;
+  }
+  
